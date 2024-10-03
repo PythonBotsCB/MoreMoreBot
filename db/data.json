@@ -1,0 +1,646 @@
+[
+    {
+        "name": "Краб Камчатский - фаланги 5L",
+        "description": "Цена - 3500 рублей",
+        "picpath": [
+            "AgACAgIAAxkBAAM4ZU9shdM9JheEK_6CwlewH6AdpScAAn_XMRvJ9XlKT0qEVbkNrMIBAAMCAANzAAMzBA"
+        ],
+        "videopath": [],
+        "id": 1
+    },
+    {
+        "name": "Краб стригун",
+        "description": "Опилио, цена - 1200 рублей",
+        "picpath": [
+            "AgACAgIAAxkBAANFZU9suQ8zTPWb4lgQie4xgl2u6BAAAoLXMRvJ9XlKlOsAAaIJKCHaAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 2
+    },
+    {
+        "name": "Креветка магаданская",
+        "description": "0% глазури, цена - 900р/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIZa2VvkZ06qckHSC3EINau3J_NrkP-AALE3TEb5NiASw2EpHNy-7YpAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 3
+    },
+    {
+        "name": "Корюшка вяленая",
+        "description": "Масса - 300 гр., упаковка - В/У, цена - 750р.",
+        "picpath": [
+            "AgACAgIAAxkBAAPCZVCRcd9I9PjnxhDgdHe-hiku8NkAAjLQMRvvLIlK9MsWwVUPStIBAAMCAANzAAMzBA"
+        ],
+        "videopath": [],
+        "id": 4
+    },
+    {
+        "name": "Камбала вяленая",
+        "description": "Масса - 500гр., упаковка - В/У, цена - 700 р.",
+        "picpath": [
+            "AgACAgIAAxkBAAPPZVCSAAGAQdRwwYL7ivaDwZfq6EnqAAI30DEb7yyJSr9UT47GYpbhAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 5
+    },
+    {
+        "name": "Мясо камчатского краба(филе)",
+        "description": "500гр - 3100 руб",
+        "picpath": [
+            "AgACAgIAAxkBAAPcZVCSmhU-smEm8KWC2o69Pjzx65gAAjzQMRvvLIlKpffphoukELsBAAMCAANzAAMzBA"
+        ],
+        "videopath": [],
+        "id": 6
+    },
+    {
+        "name": "Мидии в створках",
+        "description": "Количество - 40/60\nЦена - 420р/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAPtZVCUG8pR290_nqj2ZAbDv3y-i8EAAkXQMRvvLIlKUOQHklDnczMBAAMCAANzAAMzBA"
+        ],
+        "videopath": [],
+        "id": 7
+    },
+    {
+        "name": "Креветка магаданская",
+        "description": "/newcard",
+        "picpath": [],
+        "videopath": [],
+        "id": 8
+    },
+    {
+        "name": "Креветка",
+        "description": "5% глазури\nЦена - 550р/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIBx2VQnvjmx7jx_KJ3oXWyMk-SJaFgAAKp0TEbSK6JSoGoh0bDVAE2AQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIB12VQny98rDozqjotrHKI4PYKAn2UAAKq0TEbSK6JSsuKWwZz6QJDAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 9
+    },
+    {
+        "name": "Печень трески",
+        "description": "Железная банка\nМасса - 120 гр.\nЦена - 320р",
+        "picpath": [
+            "AgACAgIAAxkBAAIB5WVQoBxEKTuK6UcNwuI-wB-qxvVTAAKZ0DEb7yyJSg9fJdfO5ZMGAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 10
+    },
+    {
+        "name": "Филе минтая",
+        "description": "Масса 600 гр.\nЦена - 270р",
+        "picpath": [
+            "AgACAgIAAxkBAAIB7mVQoSDvS8dH4MyE5gnOX6Vv-36oAAKc0DEb7yyJShmeVBAYrhEfAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 11
+    },
+    {
+        "name": "Омега (160 капсул)",
+        "description": "Цена - 1700 руб",
+        "picpath": [
+            "AgACAgIAAxkBAAIB92VQob-9dIZXXmQ4zAF3a_JMxIOZAAKj0DEb7yyJSuJxLg0wVX6KAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 12
+    },
+    {
+        "name": "/newcard",
+        "description": "Стейка лосося",
+        "picpath": [],
+        "videopath": [],
+        "id": 13
+    },
+    {
+        "name": "Стейк лосося",
+        "description": "С/М, Цена - 1500 рублей/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIZhWVvkoTctkOdoUMtQP3ErAL7zRfCAALG3TEb5NiAS8gRJSWoaRMIAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 14
+    },
+    {
+        "name": "Гребешок северокурильский",
+        "description": "Цена - 1900руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIP9GVmSVhXcdykvQfRlqH_OBWwJhGXAAJF2jEbhnAwS9CnKnjeNF6rAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIQAmVmSXcQJ53NYdtJ6qsvFbK1abZmAAJD2jEbhnAwS-p77JSl2vf1AQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 15
+    },
+    {
+        "name": "Краб Камчатский (фаланги)",
+        "description": "в/у, 500гр - 3100руб",
+        "picpath": [
+            "AgACAgIAAxkBAAIZXmVvj73Nzy5zzNhZ8oYk0GzgFO-gAAK_3TEb5NiAS8q-eRuJtvalAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 16
+    },
+    {
+        "name": "Стейк тунца",
+        "description": "Цена - 880руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIQOGVmTVVudqGjT0HeYrBjIxnkK0tIAAJy2zEbhnAwSxvoichohXamAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 17
+    },
+    {
+        "name": "Мясо мидии",
+        "description": "Мидии чилийские - 580руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIQRGVmTbq4PVOhmf4AAcXfE8sclmxuJgACddsxG4ZwMEu4nAfq6j66fQEAAwIAA3MAAzME"
+        ],
+        "videopath": [],
+        "id": 18
+    },
+    {
+        "name": "Лосось потрошеный",
+        "description": "Цена - 1600руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIQXGVmTySi4pgryMjSEDX8bwAB1-QjjAACedsxG4ZwMEsO4TRS5e02jwEAAwIAA3MAAzME"
+        ],
+        "videopath": [],
+        "id": 19
+    },
+    {
+        "name": "Филе горбуши",
+        "description": "с/м, Сахалин\nЦена - 490руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIQaGVmT3mvZDKO0UnG-yyoKSQtLCf0AAJ72zEbhnAwS_qDqpgyrWbVAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 20
+    },
+    {
+        "name": "Филе лосося",
+        "description": "в/у, с/м филе лосося\nЦена - 1990руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIQdGVmUOo7gezPJQ8cbj5hjd9f5R2fAAKC2zEbhnAwS1KtZBsk-tvkAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIQdWVmUOrgszzSlJs1j_7M5aP-j0iqAAKD2zEbhnAwS3aXfplTi3pMAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 21
+    },
+    {
+        "name": "Икра красная",
+        "description": "охл. Сахалин\nЦена - 5000руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIQi2VmUaBWMiowv1Fip2BTonum5YYbAAKW2zEbhnAwS1G0H_XuAAHUiQEAAwIAA3MAAzME"
+        ],
+        "videopath": [],
+        "id": 22
+    },
+    {
+        "name": "Краб стригун опилио",
+        "description": "Клешни - 1200руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIQoGVmUg3YdAc_HPhkwjfjPpeiPmJnAAKX2zEbhnAwS7VCOh3G5CiYAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 23
+    },
+    {
+        "name": "Икра Восточный берег",
+        "description": "Цена - 750руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIQrGVmUkXX7hlFEba0_TdTQjYcaX4ZAAKZ2zEbhnAwS6ri-6mo1gAB3wEAAwIAA3MAAzME"
+        ],
+        "videopath": [],
+        "id": 24
+    },
+    {
+        "name": "Краб Камчатский, коленца",
+        "description": "Мясо коленца, в/у\n500гр. - 2000руб",
+        "picpath": [
+            "AgACAgIAAxkBAAIQuGVmUu33OUEv2MqCoZmYm9PQnZhQAAKa2zEbhnAwS51cEAP5lyh2AQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 26
+    },
+    {
+        "name": "Креветка аргентинская, очищенная",
+        "description": "Крупная, очищенная на хвосте\nЦена - 1200руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIQ12VmVL402wXh_MfUTW_UK8c-_sOjAAKg2zEbhnAwS_2FxeYhGrJJAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIQ2GVmVL7pd-AGk3Gs0fQ15FucP-hAAAKh2zEbhnAwSyxmsCatu6mmAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 27
+    },
+    {
+        "name": "Лангустин Аргентина",
+        "description": "коробочка по 2кг - 550руб",
+        "picpath": [
+            "AgACAgIAAxkBAAIQ62VmVS3fnjp1ZCnpTocw_UJC-XjRAAKj2zEbhnAwS5dI73MCEURIAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIQ7GVmVS3g9CFGJeOvrSG_enHNKarzAAKk2zEbhnAwS708oKiIrbNMAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 28
+    },
+    {
+        "name": "Стейк чилийской форели",
+        "description": "Размер XXL\nЦена - 1200руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIZm2Vvk1yxxNk1VX9k0wOplLgWLalgAALI3TEb5NiAS7osfgE_Kj8iAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 29
+    },
+    {
+        "name": "Стейк лосося Чили",
+        "description": "Размер XXL\nЦена - 1500руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIRGmVmVn6oeExaL8Rw6UQJVKdT8fbHAAKt2zEbhnAwS_22Mp9stDRmAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIRMGVmVs-RFCpbGUrQMjS3R1emZCrTAAKr2zEbhnAwS8FzuWIUmhpkAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIRP2VmVusL3bQHsp9ZW4fzg0Q0OX8oAAKs2zEbhnAwS_KyQJ6wwfsMAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 30
+    },
+    {
+        "name": "Филе форели Чили",
+        "description": "в/у, с/м филе форели\nЦена - 1440руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIRTmVmV35ppLctTGkc3LUi74Ln1ugLAAKz2zEbhnAwS6_jZBatIKLTAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIRXGVmV5l_C3lq497ht7djDrfo4mdiAAKy2zEbhnAwSwO10Xd0LqpYAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 31
+    },
+    {
+        "name": "Филе атлантической трески",
+        "description": "с/м филе трески\nЦена - 700руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIRaWVmV_xxZOiN8MLopQQxAVnb63cGAAK12zEbhnAwS2AbMRg9ngnlAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIRcmVmWBOiHo79d5FrCDRFhexp5rMvAAK22zEbhnAwS3ek9fYHjM2pAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 32
+    },
+    {
+        "name": "Филе судака",
+        "description": "в/у, с/м филе судака\nЦена - 770руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIRf2VmWEyNgciaQKpX5i0PSzp-jS3TAAK32zEbhnAwS32Ha0wRQsPNAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 333
+    },
+    {
+        "name": "Филе морского языка",
+        "description": "в/у, с/м филе морского языка\nЦена - 325руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIRi2VmWIbXC7pZmIkT08xOD3FcgYxQAAK42zEbhnAwSybInqWLz-4JAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 34
+    },
+    {
+        "name": "Филе тилапии",
+        "description": "в/у, с/м филе тилапии\nЦена - 450руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIRl2VmWMenpZjoUYIuDKuD34By3_xLAAK52zEbhnAwS8yRAzwSVCB4AQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 35
+    },
+    {
+        "name": "Лосось чилийский",
+        "description": "тушка, с/м\nЦена - 1500руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIRq2VmWZLJ-3CNo5FQNSvpAR4e_NNsAAK72zEbhnAwS2lPvpGrw7zWAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 36
+    },
+    {
+        "name": "Форель Чилийская",
+        "description": "тушка с/м\nЦена - 1100руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIZwmVvlgvP17pvflJKeKNN9K4h2AHRAALV3TEb5NiAS4S-EV2u_WkrAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 37
+    },
+    {
+        "name": "Горбуша",
+        "description": "НР, в/у\nЦена - 250руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAISIWVmYaL-z6rZLUlYKPfoPkTHumkcAALY2zEbhnAwS1jvptDYvaFxAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAISSmVmYqwr5wRMGfyrdXShL2lgioUAA9jbMRuGcDBLWO-m0Ni9oXEBAAMCAANzAAMzBA",
+            "AgACAgIAAxkBAAIFJmVX6in276JmsGmsrKvbIoiTQ11uAAI-1TEbxbLASt1jZS3lKrXXAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIFJ2VX6inUaT53R9lZ44FYgz2F3BsYAAI_1TEbxbLASoKUBqYbJlaXAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 38
+    },
+    {
+        "name": "Сибас",
+        "description": "Цена - 650руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIFN2VX6sFGtXjea_1bMb1ZTOXDo3gSAAJA1TEbxbLASqaEwWcjZexBAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIFOGVX6sHc6FeHUgxjmmwQgrxAYmsSAAJB1TEbxbLASjtRSGar6eVVAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 39
+    },
+    {
+        "name": "Дорадо",
+        "description": "Цена - 590руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIFSGVX61TwT0uCozV1P-EZWEUo23n7AAJ60zEbI2vASiWrf0Cju-GiAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIFSWVX61TWd-iENXZYg5Vc0ip1sMyCAAJC1TEbxbLASt3HemaJIURcAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 40
+    },
+    {
+        "name": "Камбала Атлантическая",
+        "description": "Цена - 350 руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIL1WVfqkIaR6wKIlopnMvvXho6v2RlAAKP1DEbK7f5SiUJZkicSwAB6QEAAwIAA3MAAzME",
+            "AgACAgIAAxkBAAIL1mVfqkKOXMySE3rV7MaCJHF-Lv4cAAKQ1DEbK7f5Si-53gUPEOmnAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 41
+    },
+    {
+        "name": "Окунь морской",
+        "description": "Окунь морской Фарерские острова - 600 руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIFZmVX7NlVjuAiHzhV1kp31qUP4io0AAJE1TEbxbLASv1dvkSEZMkXAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 42
+    },
+    {
+        "name": "Скумбрия",
+        "description": "Цена - 320 руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIZ12Vvlqzs5irJzewVeuoUEwYdoOKXAALX3TEb5NiAS2QgtBp0lsaKAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIFmGVX7XfwhVyPUxUXrEoM6rXnaGOEAAJG1TEbxbLASum1QlgNo_6_AQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 43
+    },
+    {
+        "name": "Котлеты из щуки",
+        "description": "Цена - 240 руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIFpmVX7ddSCM87JUWzV080p98jK4TRAAJH1TEbxbLAShvO69YHhFG8AQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIFtmVX7fSCpDdopisMUzDKm2XBaMfLAAJI1TEbxbLASik1hh3Y9ue0AQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 44
+    },
+    {
+        "name": "Котлеты из трески",
+        "description": "Замороженные котлеты из трески\nЦена - 240руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIS_WVmZaJ7jOKLXzy2qMhD2heCXAIiAALu2zEbhnAwSzeF8tVEj_hbAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 45
+    },
+    {
+        "name": "Котлеты из черной трески",
+        "description": "Цена - 300 руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAILk2VfnNJzoWgydyngbUgSBDfJLUyNAAIt1DEbK7f5SrD6lC_QYZm2AQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 46
+    },
+    {
+        "name": "Котлеты лососевые",
+        "description": "Цена - 250руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAITQmVmZvbw6SzfwSXqcv2JYVKR0GEJAALy2zEbhnAwS2c2aFulWbVhAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 47
+    },
+    {
+        "name": "Пельмени лососевые",
+        "description": "Цена - 310руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAITG2VmZlNq7soCQsS4CNhF8NTU-g5tAALx2zEbhnAwSzQY7NY43rEGAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 48
+    },
+    {
+        "name": "Пельмени из трески",
+        "description": "Цена - 275 руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIF8GVX8D3SxCfVzsEtOVmHPSC64LVtAAJN1TEbxbLASoVc5v8HhydHAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 49
+    },
+    {
+        "name": "Пельмени из щуки",
+        "description": "Цена - 275 руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIF-WVX8Ix7nt-MBiWd718lctZUe5WGAAJO1TEbxbLASv2QheURcKSaAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 50
+    },
+    {
+        "name": "Омега (42 капсулы)",
+        "description": "Цена - 550р",
+        "picpath": [
+            "AgACAgIAAxkBAAILrWVfoqM96j1s6_76JD8NTOCvzvKgAAJb1DEbK7f5Sk24iraIExQbAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 51
+    },
+    {
+        "name": "Клемы Вонголе",
+        "description": "в/у\n500гр - 300руб",
+        "picpath": [
+            "AgACAgIAAxkBAAIW8WVuRLSIHLCR8q7ueFRVCapyriJkAALX0zEbpSdwS5S_wV8XJXXeAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 52
+    },
+    {
+        "name": "Морской коктейль",
+        "description": "в/у\n500гр - 600руб",
+        "picpath": [
+            "AgACAgIAAxkBAAIW_WVuRR9DKJAL6Lyi2zlEfkFB61i8AALZ0zEbpSdwS0O_09lI0KxWAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 53
+    },
+    {
+        "name": "Гребешок крупный медальон",
+        "description": "10/20 в/у\n500гр -  600руб",
+        "picpath": [
+            "AgACAgIAAxkBAAIXBmVuRZKizWn_ahRrqocy_PHl5GZHAALa0zEbpSdwSz6QDRuz8oFzAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 54
+    },
+    {
+        "name": "Барабулька-султанка",
+        "description": "железная банка\n250гр - 210руб/шт",
+        "picpath": [
+            "AgACAgIAAxkBAAIXD2VuRgXsftyYuDeRHhI95VMEO_UbAALe0zEbpSdwSwABaXtB2bUeWwEAAwIAA3MAAzME"
+        ],
+        "videopath": [],
+        "id": 55
+    },
+    {
+        "name": "Сёмга слабосоленая",
+        "description": "филе в/у пласт на подложке\nЦена - 2500руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIXGGVuRp78MzAcWsbRrcIq_ppue1KqAALi0zEbpSdwS2sa_0kSmKpGAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 56
+    },
+    {
+        "name": "Сёмга слабосоленая нарезка",
+        "description": "в/у на подложке\nЦена - 2500руб/кг\n\nУпаковки: 150гр, 300гр, 500гр, 1кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIZeGVvkhV4gvinAo-KsCk0PileyBwgAALF3TEb5NiAS0XD56ZC4jF5AQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 57
+    },
+    {
+        "name": "Форель слабосоленая филе, пласт",
+        "description": "Филе форели слабой соли, изготовлено из охлажденного сырья\nЦена - 1600руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIXLWVuS14FGuh4KUFcBOe7HhERYOZLAAJU0zEbHG1wS47k3k8zFs5RAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 58
+    },
+    {
+        "name": "Форель слабосоленая филе на подложке",
+        "description": "Филе форели слабой соли, изготовлено из охлажденного сырья\nв/у, кусок 300гр 590руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIZkGVvkuaZUWS6D3tG5TEWwt4Bt-n7AALH3TEb5NiAS8a17M6OnWgjAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 59
+    },
+    {
+        "name": "Форель слабосоленая нарезка",
+        "description": "в/у на подложке\n150гр - 300руб/шт",
+        "picpath": [
+            "AgACAgIAAxkBAAIXQ2VuTYxhVmHGAr1LuWMiox2SlOYDAAL40zEbpSdwS5SynqoYkXkiAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 60
+    },
+    {
+        "name": "Тушка форели холодного копчения",
+        "description": "Цена - 990руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIXTWVuTjg98JlmsHcjW1cNk-t2lGlLAAL60zEbpSdwSy0uBpDlnYPdAQADAgADcwADMwQ",
+            "AgACAgIAAxkBAAIXW2VuTlZYrJgKsox4WU4pLPgBlLnZAAL50zEbpSdwS_VbpiyEpQuIAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 61
+    },
+    {
+        "name": "Селёдочка слабосоленая",
+        "description": "Только соль и специи!\nЦена - 195руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIXbGVuTxiEU98X8f4CV68I1jNTZFJRAAL70zEbpSdwSylobLJZtYK2AQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 62
+    },
+    {
+        "name": "Филе сельди слабосоленой",
+        "description": "Филе атлантической селедочки\nВ/у 150гр - 85руб",
+        "picpath": [
+            "AgACAgIAAxkBAAIXdWVuT3jkCDhZBwhEsIuPoesTizHKAAIC1DEbpSdwS2_TRExUtS0rAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 63
+    },
+    {
+        "name": "Скумбрия холодного копчения",
+        "description": "Собственное производство!\nЦена - 400руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIXfmVuT-5iFKAif1QLNoXvt4NkNUq1AAID1DEbpSdwS8fBJdsHARmSAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 64
+    },
+    {
+        "name": "Кипперс из скумбрии холодного копчения в чесночном соусе",
+        "description": "Цена - 650руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIXh2VuUC6QCSY-h7skVuJdeZ8AAckOPgACBNQxG6UncEtNZr3w-0iVdQEAAwIAA3MAAzME"
+        ],
+        "videopath": [],
+        "id": 65
+    },
+    {
+        "name": "Сельдь холодного копчения",
+        "description": "Собственное производство!\nЦена - 220руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIXkGVuUHCHmidnlR_kj7Cb_WA604dWAAIF1DEbpSdwS3_ITumrYKFgAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 66
+    },
+    {
+        "name": "Теша форели холодного копчения",
+        "description": "Цена - 1100руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIXmWVuUQ_XTah1RpeWMjlBlkuUkjYSAAIH1DEbpSdwS8Btf3ZR-hZXAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 67
+    },
+    {
+        "name": "Филе форели Турция",
+        "description": "с/м в/у\nЦена - 1230руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIXomVuUVjyAX-duZzlQsaqfsixTR2aAAIJ1DEbpSdwS7-IT6e8klpbAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 68
+    },
+    {
+        "name": "Кальмар Командорский",
+        "description": "филе в/у с/м\nЦена - 400руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIXq2VuUdWkxOobUPm1i4FDrjqwGluxAAIL1DEbpSdwS9RqwuTwRd0NAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 69
+    },
+    {
+        "name": "Котлеты из Сома",
+        "description": "Цена - 240руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIXtGVuUtU17IoLgt5X3Zz4aUDLJkWfAAIM1DEbpSdwS_3srhYj_NOYAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 70
+    },
+    {
+        "name": "Котлеты из Судака",
+        "description": "Цена - 240руб/кг",
+        "picpath": [
+            "AgACAgIAAxkBAAIXvWVuUyo4QmzybQLl1eOFC3WzOsdBAAIN1DEbpSdwS80cfjHIJCvMAQADAgADcwADMwQ"
+        ],
+        "videopath": [],
+        "id": 71
+    }
+]
